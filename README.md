@@ -1,5 +1,5 @@
 # Cancer Treatment Study - Data Analysis
->This repository contains a folder named ['Pymaceuticals'] and a ReadMe file. The Pymacuetical folder further contains the Python code (pymaceuticals_starter.ipynb) for analyzing data from a cancer treatment study. The ['Data'] sub-folder consists of two CSV files, Mouse_metadata.csv and Study_results.csv, which contain information about the mice used in the study and the results of the study, respectively.
+>This repository contains a folder named ['Pymaceuticals'] and a ReadMe file. The Pymacueticals folder further contains the Python code (pymaceuticals_starter.ipynb) for analyzing data from a cancer treatment study. The ['Data'] sub-folder consists of two CSV files, Mouse_metadata.csv and Study_results.csv, which contain information about the mice used in the study and the results of the study, respectively.
 >
 The code performs the following tasks:
 >
