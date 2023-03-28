@@ -1,5 +1,5 @@
 # Cancer Treatment Study - Data Analysis
->This repository contains Python code for analyzing data from a cancer treatment study. The data consists of two CSV files, mouse_metadata.csv and study_results.csv, >which contain information about the mice used in the study and the results of the study, respectively.
+>This repository contains a folder named ['Pymaceuticals'] and a ReadMe file. The Pymacuetical folder further contains the Python code (pymaceuticals_starter.ipynb) for analyzing data from a cancer treatment study. The ['Data'] sub-folder consists of two CSV files, Mouse_metadata.csv and Study_results.csv, which contain information about the mice used in the study and the results of the study, respectively.
 >
 The code performs the following tasks:
 >
@@ -20,11 +20,14 @@ The code performs the following tasks:
 Dependencies
 >The following packages are required to run the code:
 >
->pandas
->matplotlib
->scipy
->numpy
-
+>1. pandas
+>
+>2. matplotlib
+>
+>3. scipy
+>
+>4. numpy
+>
 Usage
 >To run the code, simply clone the repository and run the pymaceuticals_starter.ipynb notebook using Jupyter Notebook or a similar environment.
 
