@@ -15,7 +15,7 @@ The code performs the following tasks:
 >
 >6. Generates a line plot of tumor volume versus time point for a mouse treated with Capomulin, and a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 >
->7. Calculates the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment, and plots the linear >regression model on top of the scatter plot.
+>7. Calculates the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment, and plots the linear regression model on top of the scatter plot.
 >
 Dependencies
 >The following packages are required to run the code:
